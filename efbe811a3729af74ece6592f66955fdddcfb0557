@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_384d9e73",
+        "filename": "src/com/distance/controller/CalculateDistance.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1006365
+      },
+      "writtenOn": "2015-10-13T04:20:53Z",
+      "side": 1,
+      "message": "Good Work Add it",
+      "range": {
+        "startLine": 25,
+        "startChar": 31,
+        "endLine": 25,
+        "endChar": 33
+      },
+      "revId": "efbe811a3729af74ece6592f66955fdddcfb0557",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
