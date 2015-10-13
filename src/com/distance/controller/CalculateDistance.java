@@ -22,7 +22,7 @@ import org.springframework.web.servlet.ModelAndView;
  * author: Pawan Saxena
  * 
  */
- 
+ //Adding some comment message to test Gerrit Functioning
 @RestController
 public class CalculateDistance {
 	@RequestMapping(value="/calculateDistance",method={RequestMethod.GET,RequestMethod.POST})
